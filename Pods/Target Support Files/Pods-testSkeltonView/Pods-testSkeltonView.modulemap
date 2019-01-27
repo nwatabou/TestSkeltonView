@@ -1,0 +1,6 @@
+framework module Pods_testSkeltonView {
+  umbrella header "Pods-testSkeltonView-umbrella.h"
+
+  export *
+  module * { export * }
+}
